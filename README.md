@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer and Cyber Security Amateur
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C/C++, Java, and Python, or anything related.
+- 💬 Ask me about my experience with C/C++, C#, Java, and Python, or anything related.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
@@ -28,9 +28,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=Java&style=flat)&nbsp;
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat)&nbsp;
 
-![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=c/c++)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
