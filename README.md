@@ -16,8 +16,9 @@ I'm a passionate Software Engineer and Cyber Security Amateur with a love for pr
 - Programming Languages: C/C++, C#, Python, Java, C#, and SQL.
 - Web Development: HTML, CSS and  and I have some familiarity with JavaScript.
 - Version Control: Git and GitHub.
-- Integrated Development Environment (IDE): Visual Studio Code and JetBrains.
+- Integrated Development Environment (IDE): Visual Studio Code, Vim and JetBrains.
 - Operating Systems: Windows and Linux.
+- Virtual Machine Platform (type-2 hypervisor): VMware, VirtualBox and for containers I'm good with Docker
 
 ## Connect with Me
 
