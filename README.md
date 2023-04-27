@@ -13,7 +13,7 @@ I'm a passionate Software Engineer and Cyber Security Amateur with a love for pr
 
 ## Tech Stack
 
-- Programming Languages: C/C++, C#, Python, Java, C#, and SQL.
+- Programming Languages: C/C++, C#, Python, Java, and SQL.
 - Web Development: HTML, CSS and  and I have some familiarity with JavaScript.
 - Version Control: Git and GitHub.
 - Integrated Development Environment (IDE): Visual Studio Code, Vim and JetBrains.
