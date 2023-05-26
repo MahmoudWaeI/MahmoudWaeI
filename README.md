@@ -14,7 +14,7 @@ I'm a passionate Software Engineer and Cyber Security Amateur with a love for pr
 ## Tech Stack
 
 - Programming Languages: C/C++, C#, Python, Java, and SQL.
-- Web Development: HTML, CSS and  and I have some familiarity with JavaScript.
+- Web Development: HTML, CSS and I have some familiarity with JavaScript.
 - Version Control: Git and GitHub.
 - Integrated Development Environment (IDE): Visual Studio Code, Vim and JetBrains.
 - Operating Systems: Windows and Linux.
@@ -28,15 +28,20 @@ I'm a passionate Software Engineer and Cyber Security Amateur with a love for pr
 <a href="https://t.me/Ma7m0udZ" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Mahmoud%20Wael-blue?style=flat-square&logo=telegram"></a>
 </p>
 
-<!-- GitHub stats -->
-<a href="https://github.com/MahmoudWaeI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudWaeI&layout=compact&theme=radical" alt="Most used languages"/>
-</a>
-<a href="https://github.com/MahmoudWaeI">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudWaeI&show_icons=true&theme=radical" alt="Stats" />
-</a>
+<!-- GitHub Stats -->
+<div align="center">
+  <h3>GitHub Statistics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudWaeI&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-<!-- Profile views counter -->
-<a href="https://komarev.com/ghpvc/?username=MahmoudWaeI&style=flat-square">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudWaeI&style=flat-square" alt="Profile views" />
-</a>
+<!-- Code Language Percentages -->
+<div align="center">
+  <h3>Code Language Percentages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudWaeI&layout=compact&theme=radical&langs_count=10" alt="Code Language Percentages" />
+</div>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudWaeI&style=flat-square" alt="Profile Views" />
+</p>
+
